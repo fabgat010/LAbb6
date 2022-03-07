@@ -1,0 +1,14 @@
+
+# Vad representerar parametern stmt? - 
+Statement som man ska ta tid på. 
+
+# Vad representerar parametern number? 
+- Hur många exekveringar som ska göras. Det är olika lång tid på alla,
+sen tar man genomsnitt eller lägsta/snabbaste.
+
+# Vad är det timeit tar tid på? 
+- Genomsnittet av hastigheten på de exekveringar av statementet man 
+har gjort (tex en funktion med ett visst givet insongList)
+
+# Vad skrivs ut av ett anrop av timeit? 
+- Den snabbaste tiden som gjordet av de försök som gjordes
